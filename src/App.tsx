@@ -1315,11 +1315,10 @@ export default function App() {
                 margin: "0 0 18px",
               }}
             >
-              I'm an independent artist working at the
-              crossroads of traditional illustration and digital
-              craftsmanship. My work spans hand-drawn
-              narratives, concept art, editorial illustration,
-              and sculptural 3D renders.
+              I'm a Computer Science graduate specializing in Graphics and Visualization
+              with a passion for creating digital illustrations, graphic designs, and 3D models.
+              I enjoy transforming ideas into engaging visual experiences through creativity,
+              attention to detail, and continuous learning.
             </p>
             <p
               style={{
@@ -1330,10 +1329,8 @@ export default function App() {
                 margin: "0 0 36px",
               }}
             >
-              I'm drawn to work that lives between the tangible
-              and the imagined — where a brushstroke can become
-              a polygon and a model can carry emotion. Open to
-              worldwide projects.
+            I'm passionate about blending creativity and technology to create digital illustrations,
+              graphic designs, and 3D models. I'm always exploring new techniques, expanding my skills.
             </p>
             <div
               className="tools-wrap"
