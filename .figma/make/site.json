@@ -4,8 +4,8 @@
   "language": "en",
   "robots": {
     "index": true
-  }
-   "icons": {
+  },
+  "icons": {
     "icon": "/favicon.svg"
   }
 }
