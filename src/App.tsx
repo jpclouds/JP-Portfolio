@@ -128,7 +128,7 @@ const fanArts: Artwork[] = [
   },
   {
     id: 4,
-    title: "Seleeeenn",
+    title: "Selen",
     medium: "Digital Illustration",
     year: "2025",
     img: "/imports/seleeeenn 1.png",
@@ -136,7 +136,7 @@ const fanArts: Artwork[] = [
   },
   {
     id: 5,
-    title: "Original Character",
+    title: "Arlecchino",
     medium: "Digital Illustration",
     year: "2025",
     img: "/imports/Illustration17 2.png",
