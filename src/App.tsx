@@ -76,7 +76,7 @@ const originalCharacters: Artwork[] = [
   },
   {
     id: 7,
-    title: "Original Character",
+    title: "Shim",
     medium: "Digital Illustration",
     year: "2025",
     img: "/imports/shimtoro 3.png",
@@ -85,7 +85,7 @@ const originalCharacters: Artwork[] = [
   },
   {
     id: 8,
-    title: "Original Character",
+    title: "Shim",
     medium: "Digital Illustration",
     year: "2025",
     img: "/imports/shim_ver2 3.png",
